@@ -1,4 +1,4 @@
-# html-term-project-
+# html-term-project
 24 KMU Digital Marketing Programming term project
 
 24년 디지털마케팅프로그래밍 학기과제입니다.
